@@ -33,16 +33,16 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '52crdh@gmail.com'
+    'porncg2029@gmail.com'
 ];
 
 var urls=[
-	'rtmptwcvv.cc/', 
-	'hmqvxrhi.cc/', 
-    'gunskjtnt.com/',
+	'tlddzzpn.cc/', 
+	'tlddzzpn.cc/', 
+    'tlddzzpn.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://wboyxymwl.cc";
+var JumpPage="https://tlqrfare.cc";
 
 var newestUrls = [];
 
@@ -52,12 +52,12 @@ for(var i =0;i<urls.length*3;i++){
 
 var otherUrls = [
 	'https://52dh.pages.dev',
-	'https://52dh.github.io/',
+	'https://porncgw.github.io/',
 ];
 var foreverUrls = [
-	  'https://52crdh.net',
+	  'https://95ea.tlddzzpn.cc',
 	JumpPage,
-	'https://52crdh.com',
+	'https://tlqrfare.cc',
 	
 ];
 var notices = [
@@ -133,7 +133,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问52成人导航'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问porn吃瓜网'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
