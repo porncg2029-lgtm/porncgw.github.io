@@ -42,7 +42,7 @@ var urls=[
     'tlddzzpn.cc/',
 ];                                                                                                                  
 
-var JumpPage="https://porncgw.com";
+var JumpPage="";
 
 var newestUrls = [];
 
